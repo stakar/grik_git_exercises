@@ -1,0 +1,3 @@
+def funkcja():
+    kotki
+    pieski
